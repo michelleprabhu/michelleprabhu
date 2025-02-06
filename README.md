@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @michelleprabhu
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ui/ux ...
-- 💞️ I’m looking to collaborate on coding projects/ web design and project management
+
 -  ...
 
 
